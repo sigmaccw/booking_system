@@ -1,0 +1,2 @@
+add_subdirectory(BookingServer)
+add_subdirectory(BookingClient)
